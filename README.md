@@ -25,6 +25,10 @@ Với nhu cầu ngày càng mở rộng ngành đào tạo và tuyển sinh thê
 ## Thông tin tổ chức mã nguồn
 
  Mã nguồn được quản lý theo hệ thống quản lý phiên bản phân tán [Git](https://git-scm.com/) 
+ 
+ ## Truyền thông của dự án
+ 
+ * Truy cập vào [Fanpage](https://www.facebook.com/Qu%E1%BA%A3n-L%C3%BD-Sinh-Vi%C3%AAn-1263591970430901/?hc_ref=ARSPydulnkqX3ktgV9z1bPekRopHMOsfvaRCu-n4sVaXuykJYth_u7o4iI20PpBEeW0&fref=nf) để biết thêm thông tin!
 
 ## Lời cảm tạ
  
