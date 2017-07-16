@@ -4,11 +4,9 @@
  Đưa ra các quy ước khi coding với ngôn ngữ lập trình C#, với các quy tắc này giúp tiết kiệm thời gian rất lớn trong tiến trình phát triển phần mềm và cả trong quá trình bảo trì sản phẩm. Giúp sinh viên quen với làm việc theo nhóm.
 Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình C#, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Visual Studio .NET.
 * Phạm vi áp dụng:
-
 Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C# và công cụ Visual Studio .Net.
 
 * Định nghĩa và những từ viết tắt:
-
 Ký pháp Hungarian là cách quy định đặt tên biến như sau: bắt đầu tên biến thì viết chữ thường và các chữ đầu thể hiện kiểu dữ liệu của biến, và được gọi là các tiền tố
 ## QUI ĐỊNH CHUNG VỀ CHUẨN LẬP TRÌNH
 
@@ -128,9 +126,6 @@ Nếu không sử dụng MAX_MONTH_IN_YEAR mà sử dụng số 12, khi tìm ki�
 
 Tránh những kí tự đặt phía trước như tiền tố m_ hay thêm kiểu dữ liệu vào đầu tên biến. Tôi cảm thấy khá dư, không cần thiết lắm. Trong lúc làm việc nhóm, tôi cũng loại bỏ những tiền tố và team tôi không phàn nàn gì lắm. Và tôi cũng không thấy ai trong nhóm dùng thế.     
 
-* Đừng tỏ ra hài hước hay nguy hiểm        
-
-Đừng đem sự hài hước hay cố tỏ ra nguy hiểm vào tên biến. Ví dụ bạn muốn ám chỉ một hành động copy nhưng tỏ ra hài hước với một em trong team nên bạn đặt tên biến là mtp ? Có vẻ vui đấy.Nhưng nó không khiến người đọc code của bạn và một số người khác thấy vui đâu. Một lựa chọn tường minh thường tốt hơn là  một giá trị giải trí. Hãy nhớ vui đúng lúc, nghiêm túc đúng nơi.
 
 * Qui ước đặt tên class và method        
 
@@ -144,5 +139,5 @@ Trên đây là một số qui định về đặt tên biến mà tôi tự t�
 
 
 
-#### Nếu có bất cứ thắc mắc nào xin vui lòng liên hệ qua email:    nguyenquyetthoi@gmail.com
+#### Mọi thắc mắc xin vui lòng liên hệ qua email:    nguyenquyetthoi@gmail.com
 
