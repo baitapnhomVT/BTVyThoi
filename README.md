@@ -13,9 +13,9 @@ Ngày nay, tin học đã có những bước tiến nhanh chóng về ứng d�
 
 Với nhu cầu ngày càng mở rộng ngành đào tạo và tuyển sinh thêm sinh viên, việc sử dụng phần mềm để quản lý thông tin cơ bản của sinh viên là hết sức cần thiết. Việc ứng dụng công nghệ thông tin vào quản lý ngoài ra còn đang là một trong những mục tiêu công nghệ thông tin hóa của Nhà trường trong thời gian tới. Từ đó, môi trường tương tác giữa sinh viên và bộ phận quản lý, cụ thể là Phòng Đào tạo được thuận lợi và dễ dàng hơn trong quá trình làm việc, học tập và tra cứa thông tin.
 #### Một số mục tiêu trọng tâm trong tương lai
-* Được đưa vào áp dụng chính thức tại Trường ĐH Thông tin Liên lạc 
-* Bổ sung thêm chức năng tra cứu điểm thi chi sinh viên
-* Bổ sung thêm chức năng tìm kiếm theo mã số sinh viên
+* Được đưa vào áp dụng chính thức tại Trường ĐH Thông tin Liên lạc. 
+* Bổ sung thêm chức năng tra cứu điểm thi cho sinh viên.
+* Từ chương trình của dự án phát triển cho các mục đích quản lý khác.
 
 ## Thông tin giấy phép
 
