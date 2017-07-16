@@ -11,7 +11,7 @@ Chỉnh sửa xong thì ấn nút Pull Request để gửi yêu cầu đóng gó
 
 Và bạn có thể liên lạc với tôi bằng email: nguyenquyetthoi@gmail.com
 
-Hoặc bạn có thể đóng góp cho tôi tại [đây](https://github.com/baitapnhomVT)
+Hoặc bạn có thể đóng góp cho tôi tại [đây](https://github.com/baitapnhomVT).
 
 
 
