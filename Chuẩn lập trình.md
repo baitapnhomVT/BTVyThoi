@@ -67,27 +67,7 @@ trống (để dễ đọc)
 * Tên mang mục đích        
 
 Tôi cho rằng đây là qui định bắt buộc và ưu tiên nhất. Hãy chọn tên biểu đạt được mục đích của nó. Điều này hoàn toàn đơn giản phải không? Thay vì muốn biểu hiện danh sách học sinh bằng biến list1 hãy dùng listStudents. Bởi vì list1 là 1 tên vô nghĩa , gây nhầm lẫn và lộn xộn cho người đọc.
-Để dễ hiểu hơn, hãy xem qua ví dụ sau:
-```javascript
-List list1 = new ArrayList();
-			/*... */
-			for ( Student x : list1 ) {
-				if( x.GPA &gt; 8 ){
-					x.rank= "GOOD";
-				}
-			}
-```
-Và
-```javascript
-		List listStudents= new ArrayList();
-			/*... */
-			for ( Student student : listStudent s) {
-				if( student.GPA &gt; 8 ){
-					student.rank= "GOOD";
-				}
-			}
-```
- Với ví dụ trên, chúng ta dễ dàng thấy được sức mạnh của việc lựa chọn tên phù hợp. Vậy tóm lại tên biến đạt yêu cầu phải trả lời được 3 câu hỏi lớn: Tại sao nó tồn tại? Nó dùng để làm gì ? và Làm sao sử dụng nó ? Suy nghĩ một cái tên chuẩn sẽ mất vài giây nhưng nó sẽ tiết kiệm hàng giờ đồng hồ cho bạn và đồng đội của bạn.    
+Vậy tóm lại tên biến đạt yêu cầu phải trả lời được 3 câu hỏi lớn: Tại sao nó tồn tại? Nó dùng để làm gì ? và Làm sao sử dụng nó ? Suy nghĩ một cái tên chuẩn sẽ mất vài giây nhưng nó sẽ tiết kiệm hàng giờ đồng hồ cho bạn và đồng đội của bạn.    
 * Tránh sai lệch thông tin
 
 Không sử dụng studentList để biểu thị nhóm học sinh. Khái niệm nhóm và danh sách là hoàn toàn khác nhau. Trong tường hợp bạn muốn phân nhiều nhóm trong lớp học hãy dùng studentGroup.
