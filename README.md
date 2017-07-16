@@ -13,7 +13,7 @@ Với nhu cầu ngày càng mở rộng ngành đào tạo và tuyển sinh thê
 #### Một số mục tiêu trọng tâm trong tương lai
 * Được đưa vào áp dụng chính thức tại Trường ĐH Thông tin Liên lạc 
 * Bổ sung thêm chức năng tra cứu điểm thi chi sinh viên
-* Bổ sung thêm chức ăng tìm kiếm theo mã số sinh viên
+* Bổ sung thêm chức năng tìm kiếm theo mã số sinh viên
 
 ## Quản lý phiên bản
 
