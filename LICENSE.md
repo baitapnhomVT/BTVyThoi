@@ -217,7 +217,7 @@ Cũng thêm thông tin về cách liên lạc với bạn bằng thư điện t�
 Nếu chương trình tương tác thiết bị đầu cuối, làm cho nó ra một thông báo ngắn như thế này khi nó bắt đầu trong một chế độ tương tác:
 <Program> Bản quyền (C) <year> <tên tác giả>
     Chương trình này đi kèm với hoàn toàn KHÔNG CÓ BẢO HÀNH; Để biết chi tiết gõ `show w '.
-    Đây là phần mềm miễn phí và bạn được chào đón để phân phối lại nó
+    Đây là phần mềm miễn phí và bạn được chào đón để phân phối lại nó.
     dưới một số điều kiện nhất định; Gõ `show c 'để biết chi tiết.
 Các lệnh giả thuyết `show w 'và` show c' phải hiển thị các phần thích hợp của Giấy phép Công cộng. Tất nhiên, các lệnh của chương trình có thể khác; Cho một giao diện GUI, bạn sẽ sử dụng một "về hộp".
 
