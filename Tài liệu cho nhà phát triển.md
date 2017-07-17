@@ -12,23 +12,23 @@ B2. Kéo các toolbox sang để  tạo dao diên cho fom
 </p>
 
 B3. Sử dụng thuật code cho fom Viết code cho form. Lưu ý: xử lý trực tiếp các thao tác tính toán cũng như thao tác với SQL Server trên form.
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using System.Data.SqlClient;
-namespace _1_QLSV
-{
-    public partial class MonHoc_BM : Form
-    {
-        SqlCommandBuilder scb;        
-        DataTable dt;
-        SqlDataAdapter da;
+  #### using System;
+  #### using System.Collections.Generic;
+  #### using System.ComponentModel;
+  #### using System.Data;
+  #### using System.Drawing;
+   #### using System.Linq;
+  ####  using System.Text;
+   #### using System.Threading.Tasks;
+  #### using System.Windows.Forms;
+  #### using System.Data.SqlClient;
+  #### namespace _1_QLSV
+ #### {
+    ####  public partial class MonHoc_BM : Form
+     #### {
+        ####  SqlCommandBuilder scb;        
+        ####  DataTable dt;
+         #### SqlDataAdapter da;
         public MonHoc_BM()
         {
             InitializeComponent();
