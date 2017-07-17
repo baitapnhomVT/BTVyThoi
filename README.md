@@ -16,6 +16,7 @@ Với nhu cầu ngày càng mở rộng ngành đào tạo và tuyển sinh thê
 * Được đưa vào áp dụng chính thức tại Trường ĐH Thông tin Liên lạc. 
 * Bổ sung thêm chức năng tra cứu điểm thi cho sinh viên.
 * Từ chương trình của dự án phát triển cho các mục đích quản lý khác.
+* Bô sung và thêm các chức năng mới ưu việt hơn như thống kế kết quả học tập của sinh viên qua các kỳ.
 
 ## Thông tin giấy phép
 
@@ -32,7 +33,7 @@ Với nhu cầu ngày càng mở rộng ngành đào tạo và tuyển sinh thê
  
   ## Tin Tức Về Bản Cập Nhập Mới Nhất
  
- * Truy cập vào [Link](https://www.facebook.com/Qu%E1%BA%A3n-L%C3%BD-Sinh-Vi%C3%AAn-1263591970430901/?hc_ref=ARSPydulnkqX3ktgV9z1bPekRopHMOsfvaRCu-n4sVaXuykJYth_u7o4iI20PpBEeW0&fref=nf) để biết thêm thông tin và tin tức!
+ * Truy cập vào [Link](https://www.facebook.com/Qu%E1%BA%A3n-L%C3%BD-Sinh-Vi%C3%AAn-1263591970430901/?hc_ref=ARSPydulnkqX3ktgV9z1bPekRopHMOsfvaRCu-n4sVaXuykJYth_u7o4iI20PpBEeW0&fref=nf) để biết thêm thông tin và những bản cập nhật mới nhất của dự án!
 
 ## Lời cảm tạ
  
