@@ -175,7 +175,7 @@ Chức năng ứng dụng:
 ## II. Cơ sở dữ liệu
 ### 1.Quan hệ dữ liệu
 <p align="center">
-  <img width="350" height="300" src="https://github.com/baitapnhomVT/BTVyThoi/blob/master/CSDL.png">
+  <img width="650" height="400" src="https://github.com/baitapnhomVT/BTVyThoi/blob/master/CSDL.png">
 </p>                
 
 ### 2. Các bảng
