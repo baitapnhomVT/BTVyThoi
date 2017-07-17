@@ -17,6 +17,7 @@ Với nhu cầu ngày càng mở rộng ngành đào tạo và tuyển sinh thê
 * Bổ sung thêm chức năng tra cứu điểm thi cho sinh viên.
 * Từ chương trình của dự án phát triển cho các mục đích quản lý khác.
 * Bô sung và thêm các chức năng mới ưu việt hơn như thống kế kết quả học tập của sinh viên qua các kỳ.
+* Giao diện đẹp, dễ sử dụng với người dùng
 
 ## Thông tin giấy phép
 
