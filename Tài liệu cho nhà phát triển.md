@@ -24,11 +24,11 @@ B3. Sử dụng thuật code cho fom Viết code cho form. Lưu ý: xử lý tr�
   #### using System.Data.SqlClient;
   #### namespace _1_QLSV
  #### {
-    ####  public partial class MonHoc_BM : Form
-     #### {
-        ####  SqlCommandBuilder scb;        
-        ####  DataTable dt;
-         #### SqlDataAdapter da;
+   #### public partial class MonHoc_BM : Form
+    {
+         SqlCommandBuilder scb;        
+         DataTable dt;
+         SqlDataAdapter da;
         public MonHoc_BM()
         {
             InitializeComponent();
